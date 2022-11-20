@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# user pedro password Trombone55
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
